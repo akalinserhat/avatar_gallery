@@ -1,0 +1,571 @@
+[
+    {
+        "icon": "0.png",
+        "tags": [
+            "avatar"
+        ]
+    },
+    {
+        "icon": "1.png",
+        "tags": [
+            "avatar"
+        ]
+    },
+    {
+        "icon": "2.png",
+        "tags": [
+            "avatar"
+        ]
+    },
+    {
+        "icon": "3.png",
+        "tags": [
+            "avatar"
+        ]
+    },
+    {
+        "icon": "4.png",
+        "tags": [
+            "avatar"
+        ]
+    },
+    {
+        "icon": "100.png",
+        "tags": [
+            "avatar",
+            "uzay",
+            "space",
+            "astranot",
+            "astronaut"
+        ]
+    },
+    {
+        "icon": "101.png",
+        "tags": [
+            "avatar",
+            "hacker",
+            "korsan"
+        ]
+    },
+    {
+        "icon": "102.png",
+        "tags": [
+            "avatar",
+            "hacker",
+            "korsan"
+        ]
+    },
+    {
+        "icon": "103.png",
+        "tags": [
+            "avatar",
+            "ninja",
+            "savaşcı",
+            "warrior"
+        ]
+    },
+    {
+        "icon": "200.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "201.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "202.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "203.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "204.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "205.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "206.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "207.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "208.png",
+        "tags": [
+            "avatar",
+            "woman",
+            "kadın"
+        ]
+    },
+    {
+        "icon": "300.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "301.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "302.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "303.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "304.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "305.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "306.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "307.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "308.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "309.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "310.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "311.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "312.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "313.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "314.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "315.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "316.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "317.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "318.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "319.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "320.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "321.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "322.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "323.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "324.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "325.png",
+        "tags": [
+            "avatar",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "400.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "401.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "402.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "403.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "404.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "405.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "406.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "407.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "408.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "409.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "410.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "411.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "412.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "413.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "414.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "415.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "416.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "417.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "418.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "419.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "420.png",
+        "tags": [
+            "building"
+        ]
+    },
+    {
+        "icon": "500.png",
+        "tags": [
+            "tent",
+            "çadır",
+            "camping",
+            "kamp"
+        ]
+    },
+    {
+        "icon": "501.png",
+        "tags": [
+            "caravan",
+            "karavan",
+            "camping",
+            "kamp"
+        ]
+    },
+    {
+        "icon": "600.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "couple",
+            "çift"
+        ]
+    },
+    {
+        "icon": "601.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "602.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "couple",
+            "çift"
+        ]
+    },
+    {
+        "icon": "603.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "604.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "605.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "couple",
+            "çift"
+        ]
+    },
+    {
+        "icon": "606.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "man",
+            "erkek"
+        ]
+    },
+    {
+        "icon": "607.png",
+        "tags": [
+            "avatar",
+            "old",
+            "yaşlı",
+            "man",
+            "erkek"
+        ]
+    }
+]
