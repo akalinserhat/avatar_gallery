@@ -134,9 +134,6 @@ class AvatarPickup extends SearchDelegate<List<AssetImage?>> {
 
   @override
   Widget buildSuggestions(BuildContext context) {
-    if (kDebugMode) {
-      print("buildSuggestions");
-    }
     if (listAvatarTags == null) {
       return _futureContent();
     } else {
