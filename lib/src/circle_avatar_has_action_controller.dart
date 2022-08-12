@@ -28,8 +28,11 @@ class CircleAvatarData {
 }
 
 class CircleAvatarHasActionController extends ValueNotifier<CircleAvatarData> {
-  CircleAvatarHasActionController({Function(BuildContext context)? onTap})
-      : super(CircleAvatarData(url: "${protocolAvatar}0.png", onTap: onTap));
+  CircleAvatarHasActionController(
+      {Function(BuildContext context)? onTap, String? url})
+      : super(CircleAvatarData(
+            url: (url != null) ? url : "${protocolAvatar}${pathDefaultAvatar}",
+            onTap: onTap));
 
   String? get url => value.url;
   bool get showAlertBadge => value.showAlertBadge;
@@ -53,23 +56,3 @@ class CircleAvatarHasActionController extends ValueNotifier<CircleAvatarData> {
     value = CircleAvatarData.fromMap(map);
   }
 }
-
-// class CircleAvatarHasActionController extends ChangeNotifier {
-//   String? _avatarImageUrl;
-//   bool _showAlertBadge = false;
-
-//   CircleAvatarHasActionController();
-
-//   set avatarImageUrl(String? value) {
-//     _avatarImageUrl = value;
-//     notifyListeners();
-//   }
-
-//   set showAlertBadge(bool value) {
-//     _showAlertBadge = value;
-//     notifyListeners();
-//   }
-
-//   String? get avatarImageUrl => _avatarImageUrl;
-//   bool get showAlertBadge => _showAlertBadge;
-// }
