@@ -16,4 +16,5 @@ part 'src/circle_avatar_has_action_controller.dart';
 const String protocolAvatar = "avatar://";
 const String protocolHttp = "http://";
 const String pathDefaultAvatar = "lib/assets/0.png";
+const String pathDefaultAddressAvatar = "lib/assets/413.png";
 const String package = "avatar_gallery";
