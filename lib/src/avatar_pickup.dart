@@ -1,6 +1,6 @@
 part of "../avatar_gallery.dart";
 
-class AvatarPickup extends SearchDelegate<List<AssetImage?>> {
+class AvatarPickup extends SearchDelegate<List<String>?> {
   final bool multiSelect;
   final List<String> selectedAvatars = [];
 
@@ -43,10 +43,8 @@ class AvatarPickup extends SearchDelegate<List<AssetImage?>> {
     var okButton = RefreshableButtonGroupItem(
         controller: RefreshableButtonGroupItemController(icon: Icons.check),
         onTap: () {
-          var res = selectedAvatars
-              .map(
-                  (e) => AssetImage("lib/assets/$e", package: "avatar_gallery"))
-              .toList();
+          List<String> res =
+              selectedAvatars.map((e) => "lib/assets/$e").toList();
           close(context, res);
         });
 
@@ -105,7 +103,7 @@ class AvatarPickup extends SearchDelegate<List<AssetImage?>> {
           case ConnectionState.none:
             return Center(
               child: CircularProgressIndicator(
-                  color: Theme.of(context).errorColor),
+                  color: Theme.of(context).colorScheme.error),
             );
 
           case ConnectionState.waiting:

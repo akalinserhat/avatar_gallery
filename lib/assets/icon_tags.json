@@ -30,6 +30,36 @@
         ]
     },
     {
+        "icon": "5.png",
+        "tags": [
+            "avatar","restaurant","default"
+        ]
+    },
+    {
+        "icon": "6.png",
+        "tags": [
+            "avatar","cafe","default"
+        ]
+    },
+    {
+        "icon": "7.png",
+        "tags": [
+            "avatar","market","default"
+        ]
+    },
+    {
+        "icon": "8.png",
+        "tags": [
+            "avatar","water","default"
+        ]
+    },
+    {
+        "icon": "9.png",
+        "tags": [
+            "avatar","lpg","default"
+        ]
+    },
+    {
         "icon": "100.png",
         "tags": [
             "avatar",

@@ -31,7 +31,7 @@ class CircleAvatarHasActionController extends ValueNotifier<CircleAvatarData> {
   CircleAvatarHasActionController(
       {Function(BuildContext context)? onTap, String? url})
       : super(CircleAvatarData(
-            url: (url != null) ? url : "${protocolAvatar}${pathDefaultAvatar}",
+            url: (url != null) ? url : "$protocolAvatar$pathDefaultAvatar",
             onTap: onTap));
 
   String? get url => value.url;

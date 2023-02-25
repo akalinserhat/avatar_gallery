@@ -12,6 +12,12 @@ dependencies:
     sdk: flutter
   refreshable_button_group:
     path: ../refreshable_button_group/
+  bizdensiparis_core:
+    path: ../../bizdensiparis_core
+  bizdensiparis_common:
+    path: ../../bizdensiparis_common
+  provider: ^6.0.3
+
 
 dev_dependencies:
   flutter_test:
@@ -25,6 +31,7 @@ dev_dependencies:
 flutter:
   assets:
     - lib/assets/
+    - lib/assets/system/
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
